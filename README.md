@@ -9,8 +9,8 @@
 nanoUART是MuseLab推出的TYPE-C接口的串口工具，尺寸2.2mmx1.7mm，最高可支持6Mbps波特率通信，支持流控，支持多种电平IO，包括5V/3.3V/2.5V/1.8V以及用户自定义电平VREF输入。
 
 <div align=center>
-<img src="https://github.com/wuxx/nanoUART/blob/master/doc/nanoUART-top.jpg" width = "400" alt="" align=center />
-<img src="https://github.com/wuxx/nanoUART/blob/master/doc/nanoUART-bottom.jpg" width = "400" alt="" align=center />
+<img src="https://github.com/wuxx/nanoUART/blob/master/doc/nanoUART-top.jpg" width = "500" alt="" align=center />
+<img src="https://github.com/wuxx/nanoUART/blob/master/doc/nanoUART-bottom.jpg" width = "530" alt="" align=center />
 </div>
 
 # 使用说明
