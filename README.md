@@ -1,4 +1,5 @@
-# nanoUART 用户手册
+# nanoUART
+[中文](./README.md) [English](./README_en.md)
 * [产品介绍](#产品介绍) 
 * [产品特性](#产品特性) 
 * [引脚定义](#引脚定义)
