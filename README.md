@@ -60,4 +60,7 @@ RX | TX  |
 推荐使用sscom或者putty连接串口使用。  
 ![sscom](https://github.com/wuxx/nanoUART/blob/master/doc/sscom.png)
 
+# 产品链接
+[nanoUART](https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-21349689064.12.6681773dIAIxyb&id=674671646143)
+
 # FAQ

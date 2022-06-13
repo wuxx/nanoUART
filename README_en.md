@@ -6,6 +6,7 @@
     * [Wire Connection](#wire-connection)
 	* [IO Level Change](#io-level-change)
 	* [Serial Software](#serial-software)
+* [Product Link](#product-link)
 * [FAQ](#faq)
 	
 # Introduce
@@ -52,5 +53,8 @@ The IO reference level can be selected by the short-circuit bridge on the back o
 ## Serial Software
 recommended to use sscom or putty (under the doc directory)
 ![sscom](https://github.com/wuxx/nanoUART/blob/master/doc/sscom.png)
+
+# Product Link
+[nanoUART](https://www.aliexpress.com/item/1005004373348999.html?spm=5261.ProductManageOnline.0.0.4ef34edfRYKoKb)
 
 # FAQ
